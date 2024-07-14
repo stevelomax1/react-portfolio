@@ -14,6 +14,6 @@ Links and Questions
 GitHub:
 https://github.com/stevelomax1
 
-Repository ~ https://github.com/
+Repository:
 
-Netlify ~ 
+Netlify:
