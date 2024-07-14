@@ -15,6 +15,7 @@ GitHub:
 https://github.com/stevelomax1
 
 Repository:
+https://github.com/stevelomax1/react-portfolio
 
 Netlify:
 https://stellar-khapse-74c252.netlify.app
