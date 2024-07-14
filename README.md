@@ -11,7 +11,7 @@ screenshot
 
 
 Links and Questions
-GitHub ~ https://github.com/
+GitHub ~ [https://github.com/](https://github.com/stevelomax1)
 
 Repository ~ https://github.com/
 
