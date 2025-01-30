@@ -6,7 +6,7 @@ function AboutMe() {
     <section className="about-me-container">
       <h2>About Me</h2>
       <img src={developerImage} alt="Developer Avatar" />
-      <p>I am a web developer with a passion for creating and learning. I am currently increasing my knowledge and proficiency in HTML,CSS, and Javascript. I am looking forward to the future as I continue to grow in web development.</p>
+      <p>Hi, I'm Steve Lomax. I am a web developer with a passion for creating and learning. I am looking forward to the future as the world continues to evolve. Everyday is an amazing adventure and I'm here for it!</p>
     </section>
   );
 }
