@@ -9,7 +9,7 @@ import {
   faNodeJs,
 } from "@fortawesome/free-brands-svg-icons";
 import { faDatabase } from "@fortawesome/free-solid-svg-icons";
-import resume from "../assets/slresume.pdf";
+import resume from "../assets/frontendresume.pdf";
 
 function Resume() {
   return (
